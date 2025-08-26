@@ -1,0 +1,38 @@
+# Core Streamlit and Web Scraping
+streamlit>=1.28.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+pandas>=2.0.0
+
+# JavaScript Support (for dynamic content)
+selenium>=4.15.0
+
+# HTML/XML Parsing
+lxml>=4.9.0
+html5lib>=1.1
+
+# Excel Export Support
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# Additional Data Processing
+numpy>=1.24.0
+
+# HTTP and URL Handling (often included with requests but explicit for safety)
+urllib3>=2.0.0
+certifi>=2023.7.22
+
+# Optional: For enhanced data visualization (if you want to extend charts)
+# plotly>=5.15.0
+# matplotlib>=3.7.0
+
+# Optional: For advanced text processing
+# regex>=2023.8.8
+
+# Optional: For JSON handling (usually built-in but can be explicit)
+# json5>=0.9.0
+
+# Development and Testing (optional)
+# pytest>=7.4.0
+# black>=23.7.0
+# flake8>=6.0.0
